@@ -6,8 +6,6 @@ Simple overview of use/purpose.
 
 A story board game made with Godot about a widower.
 
-## Getting Started
-
 ## Authors
 
 Contributors names and contact info
